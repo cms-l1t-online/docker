@@ -6,6 +6,7 @@ ADD repos/uhal-nightly.repo /etc/yum.repos.d/uhal-nightly.repo
 ADD repos/ts-nightly.repo /etc/yum.repos.d/ts-nightly.repo
 ADD repos/xdaq.repo /etc/yum.repos.d/xdaq.repo
 ADD repos/wandisco.repo /etc/yum.repos.d/wandisco.repo
+ADD repos/swatch-nightly.repo /etc/yum.repos.d/swatch-nightly.repo
 
 # install dependencies
 RUN yum install nano svn git unzip python-devel -y

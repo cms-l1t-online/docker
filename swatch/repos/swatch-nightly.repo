@@ -1,0 +1,6 @@
+[swatch-nightly]
+name=CACTUS Project Software Repository
+baseurl=http://cactus.web.cern.ch/cactus/nightly/swatch.py/slc6_x86_64/RPMS
+enabled=1
+gpgcheck=0
+timeout=120
