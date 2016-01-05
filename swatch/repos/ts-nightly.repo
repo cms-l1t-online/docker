@@ -1,0 +1,5 @@
+[ts-nightly]
+name=CACTUS Project Software Repository
+baseurl=http://cactus.web.cern.ch/cactus/nightly/ts_TS_DEV/slc6_x86_64/RPMS
+enabled=1
+gpgcheck=0
